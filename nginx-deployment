@@ -182,7 +182,6 @@ metadata:
   name: nginx-tls
 type: kubernetes.io/tls
 data:
-  # the data is abbreviated in this example
   tls.crt: |
     LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURzVENDQXBtZ0F3SUJBZ0lVUksxOHJTamVY
     UEZMNTQ5Sk9TSTkwOUtDdTJZd0RRWUpLb1pJaHZjTkFRRUwKQlFBd2FERUxNQWtHQTFVRUJoTUNT
